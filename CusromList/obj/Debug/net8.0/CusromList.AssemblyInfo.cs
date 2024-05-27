@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CusromList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3d587daff1e284e3f4151bdbca2bf407975f59e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CusromList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CusromList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

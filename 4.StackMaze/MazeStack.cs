@@ -1,8 +1,6 @@
 ﻿using System;
 
-// 유저의 경험치를 저장할 때 사용하는 스택 저장소.
-// 공개 메소드를 통해서 다른 객체와 소통하고, 객체의 상태는 감춘다.
-public class ExpStack<T>
+public class MazeStack<T>
 {
     // 필드 (필드는 감추기).
     // 현재 스택에 저장된 요소의 수.
@@ -45,7 +43,7 @@ public class ExpStack<T>
 
     // 메시지 (공개 메소드).
     // 객체 생성.
-    public ExpStack()
+    public MazeStack()
     {
         // 초기화 - Initialization/Initialize (Init).
         count = 0;

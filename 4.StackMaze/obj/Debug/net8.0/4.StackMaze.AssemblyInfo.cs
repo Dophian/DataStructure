@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("3.Stack")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("4.StackMaze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3d587daff1e284e3f4151bdbca2bf407975f59e")]
-[assembly: System.Reflection.AssemblyProductAttribute("3.Stack")]
-[assembly: System.Reflection.AssemblyTitleAttribute("3.Stack")]
+[assembly: System.Reflection.AssemblyProductAttribute("4.StackMaze")]
+[assembly: System.Reflection.AssemblyTitleAttribute("4.StackMaze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
