@@ -1,0 +1,14 @@
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\bin\Debug\net8.0\CusromList.exe
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\bin\Debug\net8.0\CusromList.deps.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\bin\Debug\net8.0\CusromList.runtimeconfig.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\bin\Debug\net8.0\CusromList.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\bin\Debug\net8.0\CusromList.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.AssemblyInfoInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.AssemblyInfo.cs
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.csproj.CoreCompileInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\refint\CusromList.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.genruntimeconfig.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\ref\CusromList.dll

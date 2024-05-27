@@ -1,0 +1,14 @@
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\bin\Debug\net8.0\3.Stack.exe
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\bin\Debug\net8.0\3.Stack.deps.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\bin\Debug\net8.0\3.Stack.runtimeconfig.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\bin\Debug\net8.0\3.Stack.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\bin\Debug\net8.0\3.Stack.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\3.Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\3.Stack.AssemblyInfoInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\3.Stack.AssemblyInfo.cs
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\3.Stack.csproj.CoreCompileInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\3.Stack.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\refint\3.Stack.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\3.Stack.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\3.Stack.genruntimeconfig.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\3.Stack\obj\Debug\net8.0\ref\3.Stack.dll

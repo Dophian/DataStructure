@@ -1,0 +1,14 @@
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\bin\Debug\net8.0\Warmup.exe
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\bin\Debug\net8.0\Warmup.deps.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\bin\Debug\net8.0\Warmup.runtimeconfig.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\bin\Debug\net8.0\Warmup.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\bin\Debug\net8.0\Warmup.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\Warmup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\Warmup.AssemblyInfoInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\Warmup.AssemblyInfo.cs
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\Warmup.csproj.CoreCompileInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\Warmup.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\refint\Warmup.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\Warmup.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\Warmup.genruntimeconfig.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Warmup\obj\Debug\net8.0\ref\Warmup.dll
