@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4.StackMaze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3d587daff1e284e3f4151bdbca2bf407975f59e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e7d995e7a1fbcdec3b6b8274c411ab0f07d92b")]
 [assembly: System.Reflection.AssemblyProductAttribute("4.StackMaze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4.StackMaze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
