@@ -6,6 +6,8 @@ public class Program
     {
         LinkedList<int> list = new LinkedList<int>();
 
+        System.Col
+
         string? data;
 
         while (true)

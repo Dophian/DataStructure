@@ -12,3 +12,4 @@ C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromLis
 C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.pdb
 C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.genruntimeconfig.cache
 C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\ref\CusromList.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\CusromList\obj\Debug\net8.0\CusromList.sourcelink.json

@@ -19,9 +19,14 @@
         list.RemoveAt(1);
 
         // 출력.
-        for (int ix = 0; ix < list.Count; ++ix)
+        //for (int ix = 0; ix < list.Count; ++ix)
+        //{
+        //    Console.WriteLine($"[{ix}]={list[ix]}");
+        //}
+
+        foreach (var item in list)
         {
-            Console.WriteLine($"[{ix}]={list[ix]}");
+            Console.WriteLine($"{item}");
         }
 
         Console.WriteLine($"Size: {list.Count}");

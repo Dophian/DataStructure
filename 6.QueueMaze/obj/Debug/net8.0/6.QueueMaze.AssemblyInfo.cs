@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6.QueueMaze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e7d995e7a1fbcdec3b6b8274c411ab0f07d92b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6707ff2659e11fad54c9caf471d63d9721d9df39")]
 [assembly: System.Reflection.AssemblyProductAttribute("6.QueueMaze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6.QueueMaze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CusromList")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("8.HashTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6707ff2659e11fad54c9caf471d63d9721d9df39")]
-[assembly: System.Reflection.AssemblyProductAttribute("CusromList")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CusromList")]
+[assembly: System.Reflection.AssemblyProductAttribute("8.HashTable")]
+[assembly: System.Reflection.AssemblyTitleAttribute("8.HashTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
