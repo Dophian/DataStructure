@@ -1,0 +1,15 @@
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\bin\Debug\net8.0\Recursive.exe
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\bin\Debug\net8.0\Recursive.deps.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\bin\Debug\net8.0\Recursive.runtimeconfig.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\bin\Debug\net8.0\Recursive.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\bin\Debug\net8.0\Recursive.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\Recursive.AssemblyInfoInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\Recursive.AssemblyInfo.cs
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\Recursive.sourcelink.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\Recursive.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\refint\Recursive.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\Recursive.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\Recursive.genruntimeconfig.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\Recursive\obj\Debug\net8.0\ref\Recursive.dll

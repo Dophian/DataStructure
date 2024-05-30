@@ -1,0 +1,15 @@
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\9.Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\9.Tree.AssemblyInfoInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\9.Tree.AssemblyInfo.cs
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\9.Tree.csproj.CoreCompileInputs.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\9.Tree.sourcelink.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\bin\Debug\net8.0\9.Tree.exe
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\bin\Debug\net8.0\9.Tree.deps.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\bin\Debug\net8.0\9.Tree.runtimeconfig.json
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\bin\Debug\net8.0\9.Tree.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\bin\Debug\net8.0\9.Tree.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\9.Tree.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\refint\9.Tree.dll
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\9.Tree.pdb
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\9.Tree.genruntimeconfig.cache
+C:\Users\김강훈\Documents\UnityProjects\DataStructure\DataStructure\9.Tree\obj\Debug\net8.0\ref\9.Tree.dll
